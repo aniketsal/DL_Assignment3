@@ -23,3 +23,4 @@ python train.py -wp "Assignment 3" -we "cs22m013" -es 128 -bs 256 --cell_type "L
 3. *Pass wandb entity as your wandb username only, otherwise it will give error.*
 
 # Report Link
+https://wandb.ai/cs22m013/dl_assignment3/reports/CS22m013-CS6910-Assignment-3--Vmlldzo0NDIzODc2?accessToken=o6gm4fwdpst1ornm58kz97oo8lecyom7nfa17uexjyw35mwo4d0g5nchtvrdnymv
